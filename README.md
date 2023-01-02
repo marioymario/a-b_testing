@@ -1,13 +1,8 @@
 # a-b_testing
 ---
-### Important terms:
 
-**Null hypothesis** : Hypothesis that proposes that no statistically significant differnece exist between specified populations.
-
-H~0 : μ~1 − μ~2 = 0
-
-**Alternative hypothesis** : Hypothesis that proposes that a statistically significant difference does exist between specified populations
-
-H~0 : μ~1 − μ~2 != 0
-
-**p-value** : 
+Hi, this is a repo about A-B testing, moslty in python3.
+The goal is to have access to key definitions and exemple code.
+Users can use the repo as a reference.
+if you have any concern or questions email me, 
+Thanks, Gracias, Merci
